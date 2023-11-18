@@ -1,0 +1,14 @@
+C:\Users\goss_rivero\source\repos\Lab4_Ivan_WF\bin\Debug\Lab4_Ivan_WF.exe.config
+C:\Users\goss_rivero\source\repos\Lab4_Ivan_WF\bin\Debug\Lab4_Ivan_WF.exe
+C:\Users\goss_rivero\source\repos\Lab4_Ivan_WF\bin\Debug\Lab4_Ivan_WF.pdb
+C:\Users\goss_rivero\source\repos\Lab4_Ivan_WF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\goss_rivero\source\repos\Lab4_Ivan_WF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\goss_rivero\source\repos\Lab4_Ivan_WF\obj\Debug\Lab4_Ivan_WF.csproj.AssemblyReference.cache
+C:\Users\goss_rivero\source\repos\Lab4_Ivan_WF\obj\Debug\Lab4_Ivan_WF.csproj.SuggestedBindingRedirects.cache
+C:\Users\goss_rivero\source\repos\Lab4_Ivan_WF\obj\Debug\Lab4_Ivan_WF.Form1.resources
+C:\Users\goss_rivero\source\repos\Lab4_Ivan_WF\obj\Debug\Lab4_Ivan_WF.Properties.Resources.resources
+C:\Users\goss_rivero\source\repos\Lab4_Ivan_WF\obj\Debug\Lab4_Ivan_WF.csproj.GenerateResource.cache
+C:\Users\goss_rivero\source\repos\Lab4_Ivan_WF\obj\Debug\Lab4_Ivan_WF.csproj.CoreCompileInputs.cache
+C:\Users\goss_rivero\source\repos\Lab4_Ivan_WF\obj\Debug\Lab4_Ivan_WF.csproj.CopyComplete
+C:\Users\goss_rivero\source\repos\Lab4_Ivan_WF\obj\Debug\Lab4_Ivan_WF.exe
+C:\Users\goss_rivero\source\repos\Lab4_Ivan_WF\obj\Debug\Lab4_Ivan_WF.pdb
